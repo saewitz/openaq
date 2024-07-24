@@ -1,0 +1,13 @@
+{
+    "website": "PlanetTerp",
+    "pages": [
+        {
+            "name": "Documentation",
+            "path": "/docs"
+        },
+        {
+            "name": "API Reference",
+            "path": "/pi"
+        }
+    ]
+}
